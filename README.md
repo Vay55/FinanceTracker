@@ -4,6 +4,12 @@ A simple full-stack expense tracker built to learn REST APIs, backend developmen
 
 ---
 
+## DEMO
+
+https://github.com/user-attachments/assets/af8de071-7a32-4bed-8b38-36453e5b2175
+
+---
+
 ## Features
 
 - Add expenses (amount, category, description)
